@@ -706,6 +706,7 @@ section {
   min-height: 40px;
   /* margin-top: 80px; */
   margin-top: 8.2rem;
+  padding-top: 35px;
 }
 
 .breadcrumbs h2 {
